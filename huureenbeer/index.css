@@ -1,0 +1,19 @@
+.sect\.1{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 650px;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('img/beer.jpg');
+    background-size: cover;
+    opacity: 200%;
+    padding-top: 50px;
+}
+.text{
+    font-family: Sans-serif;
+    font-weight: lighter;
+    color:white;
+    border: whitesmoke;
+    border-style: solid;
+    margin-left:25%;
+    margin-right: 25%;
+    border-radius: 4px;
+}
